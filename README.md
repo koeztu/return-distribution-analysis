@@ -15,8 +15,3 @@ Author: Kenan Öztürk
 Field of Study: Banking and Finance
 
 Supervisor: Sandro Braun
-
-
-## Abstract
-
-(...)
