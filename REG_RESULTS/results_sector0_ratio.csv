@@ -1,0 +1,9 @@
+Variable,Coefficient,Std Error,t-value,p-value
+constant,0.53698,0.01336,40.18821,0.0
+sizes_centered,0.03832,0.00263,14.5569,0.0
+sizes2_centered,-0.00052,8e-05,-6.89872,0.0
+horizons_centered,0.00392,0.00077,5.08192,0.0
+value,-0.11813,0.0189,-6.25167,0.0
+minvar,0.11718,0.0189,6.20134,0.0
+riskpar,0.1242,0.0189,6.57301,0.0
+rand,-0.08171,0.0189,-4.32419,2e-05
